@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report_structure>
+  <id>Id</id>
+  <title>Title</title>
+  <sev>Severity</sev>
+  <prior>Priority</prior>
+  <desc>Description</desc>
+  <env>Environment</env>  
+  <str>STR</str> 
+  <ExR>Expected result</ExR> 
+  <AcR>Actual result</AcR>
+  <Att>Attachments</Att>
+</bug_report_structure>
